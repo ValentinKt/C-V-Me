@@ -1,0 +1,273 @@
+.CV {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.CV .div-2 {
+  background-color: var(--neutralwhite);
+  height: 3508px;
+  position: relative;
+  width: 2480px;
+}
+
+.CV .design-component-instance-node {
+  left: 0 !important;
+  position: absolute !important;
+  top: 0 !important;
+}
+
+.CV .design-component-instance-node-2 {
+  background-color: var(--mainmain) !important;
+}
+
+.CV .frame-3 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex-direction: column;
+  gap: 80px;
+  left: 960px;
+  padding: 64px 0px 0px;
+  position: absolute;
+  top: 120px;
+}
+
+.CV .design-component-instance-node-3 {
+  flex: 0 0 auto !important;
+}
+
+.CV .design-component-instance-node-4 {
+  color: var(--neutralblack) !important;
+}
+
+.CV .component-name-job-instance {
+  color: var(--neutralmedium) !important;
+}
+
+.CV .design-component-instance-node-5 {
+  color: var(--neutraldark) !important;
+}
+
+.CV .sed-ut-perspiciatis {
+  color: var(--neutralblack);
+  font-family: "Roboto", Helvetica;
+  font-size: 26px;
+  font-weight: 400;
+  letter-spacing: 1.3px;
+  line-height: 38px;
+  position: relative;
+  width: 1307px;
+}
+
+.CV .overlap {
+  height: 2350px;
+  left: 160px;
+  position: absolute;
+  top: 1158px;
+  width: 2298px;
+}
+
+.CV .overlap-2 {
+  height: 2350px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 2263px;
+}
+
+.CV .frame-4 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex-direction: column;
+  gap: 140px;
+  left: 920px;
+  position: absolute;
+  top: 0;
+}
+
+.CV .div-3 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 80px;
+  position: relative;
+}
+
+.CV .content-2 {
+  align-items: flex-start;
+  display: flex;
+  flex: 0 0 auto;
+  position: relative;
+  width: 1227.83px;
+}
+
+.CV .line {
+  align-self: stretch;
+  flex: 1;
+  flex-grow: 1;
+  position: relative;
+}
+
+.CV .componont-data-list-instance {
+  border-color: var(--mainmain) !important;
+}
+
+.CV .rectangle-5 {
+  background-color: var(--mainmain);
+  height: 16px;
+  left: -383px;
+  position: absolute;
+  top: 1167px;
+  transform: rotate(-90deg);
+  width: 2350px;
+}
+
+.CV .group-5 {
+  height: 2109px;
+  left: 0;
+  position: absolute;
+  top: 42px;
+  width: 536px;
+}
+
+.CV .frame-5 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex-direction: column;
+  gap: 80px;
+  left: 0;
+  position: absolute;
+  top: 0;
+}
+
+.CV .icon-instance-node {
+  height: 64px !important;
+  position: relative !important;
+  width: 64px !important;
+}
+
+.CV .component-title-instance {
+  width: 126px !important;
+}
+
+.CV .frame-6 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 40px;
+  position: relative;
+}
+
+.CV .date-instance {
+  background-color: var(--neutralmedium) !important;
+}
+
+.CV .frame-7 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex-direction: column;
+  gap: 80px;
+  left: 0;
+  position: absolute;
+  top: 1589px;
+}
+
+.CV .component-title-2 {
+  width: 262px !important;
+}
+
+.CV .group-6 {
+  height: 376px;
+  position: relative;
+  width: 536px;
+}
+
+.CV .date-2 {
+  color: var(--neutraldark) !important;
+  margin-right: -8px !important;
+}
+
+.CV .date-3 {
+  left: 0 !important;
+  position: absolute !important;
+  top: 104px !important;
+}
+
+.CV .date-4 {
+  left: 0 !important;
+  position: absolute !important;
+  top: 208px !important;
+}
+
+.CV .date-5 {
+  color: var(--neutraldark) !important;
+  margin-right: -13px !important;
+}
+
+.CV .date-6 {
+  left: 0 !important;
+  position: absolute !important;
+  top: 312px !important;
+}
+
+.CV .overlap-wrapper {
+  height: 122px;
+  left: 2192px;
+  position: absolute;
+  top: 2228px;
+  width: 106px;
+}
+
+.CV .overlap-3 {
+  height: 122px;
+  position: relative;
+  width: 104px;
+}
+
+.CV .rectangle-6 {
+  background-color: var(--mainmain);
+  height: 104px;
+  left: -9px;
+  position: absolute;
+  top: 9px;
+  transform: rotate(-90deg);
+  width: 122px;
+}
+
+.CV .element {
+  color: transparent;
+  font-family: var(--israel-betolaza-body-1-font-family);
+  font-size: var(--israel-betolaza-body-1-font-size);
+  font-style: var(--israel-betolaza-body-1-font-style);
+  font-weight: var(--israel-betolaza-body-1-font-weight);
+  left: 24px;
+  letter-spacing: var(--israel-betolaza-body-1-letter-spacing);
+  line-height: var(--israel-betolaza-body-1-line-height);
+  position: absolute;
+  top: 40px;
+  white-space: nowrap;
+}
+
+.CV .span {
+  color: #ffffff;
+  font-family: var(--israel-betolaza-body-1-font-family);
+  font-size: var(--israel-betolaza-body-1-font-size);
+  font-style: var(--israel-betolaza-body-1-font-style);
+  font-weight: var(--israel-betolaza-body-1-font-weight);
+  letter-spacing: var(--israel-betolaza-body-1-letter-spacing);
+  line-height: var(--israel-betolaza-body-1-line-height);
+}
+
+.CV .text-wrapper-6 {
+  color: #6a6a6a;
+  font-family: var(--israel-betolaza-body-1-font-family);
+  font-size: var(--israel-betolaza-body-1-font-size);
+  font-style: var(--israel-betolaza-body-1-font-style);
+  font-weight: var(--israel-betolaza-body-1-font-weight);
+  letter-spacing: var(--israel-betolaza-body-1-letter-spacing);
+  line-height: var(--israel-betolaza-body-1-line-height);
+}

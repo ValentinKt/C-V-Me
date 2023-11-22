@@ -1,0 +1,1 @@
+export { ComponentImg } from "./ComponentImg";

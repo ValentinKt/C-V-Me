@@ -1,0 +1,1 @@
+export { LogoPrinciple } from "./LogoPrinciple";

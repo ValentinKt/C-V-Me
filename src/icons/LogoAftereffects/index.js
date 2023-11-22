@@ -1,0 +1,1 @@
+export { LogoAftereffects } from "./LogoAftereffects";

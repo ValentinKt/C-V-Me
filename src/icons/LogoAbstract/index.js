@@ -1,0 +1,1 @@
+export { LogoAbstract } from "./LogoAbstract";

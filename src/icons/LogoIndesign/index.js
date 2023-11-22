@@ -1,0 +1,1 @@
+export { LogoIndesign } from "./LogoIndesign";

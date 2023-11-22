@@ -1,0 +1,57 @@
+.component-name-job {
+  align-items: flex-start;
+  display: inline-flex;
+  flex-direction: column;
+  gap: 56px;
+  position: relative;
+}
+
+.component-name-job .frame {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 20px;
+  position: relative;
+}
+
+.component-name-job .text-wrapper {
+  color: var(--israelbetolazaneutralblack);
+  font-family: "Roboto", Helvetica;
+  font-size: 120px;
+  font-weight: 900;
+  letter-spacing: 12px;
+  line-height: 120px;
+  margin-top: -1px;
+  position: relative;
+  width: 1307px;
+}
+
+.component-name-job .div {
+  color: var(--israelbetolazaneutralmedium);
+  font-family: "Roboto", Helvetica;
+  font-size: 90px;
+  font-weight: 900;
+  letter-spacing: 9px;
+  line-height: 120px;
+  position: relative;
+  width: 1307px;
+}
+
+.component-name-job .rectangle-2 {
+  background-color: var(--israelbetolazamainprimary);
+  height: 4px;
+  position: relative;
+  width: 600px;
+}
+
+.component-name-job .text-wrapper-2 {
+  align-self: stretch;
+  color: var(--grey-1);
+  font-family: "Roboto", Helvetica;
+  font-size: 50px;
+  font-weight: 400;
+  letter-spacing: 2px;
+  line-height: normal;
+  position: relative;
+}

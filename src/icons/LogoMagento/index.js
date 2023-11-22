@@ -1,0 +1,1 @@
+export { LogoMagento } from "./LogoMagento";

@@ -1,0 +1,1 @@
+export { LogoSketch } from "./LogoSketch";

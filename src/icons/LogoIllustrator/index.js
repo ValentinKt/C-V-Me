@@ -1,0 +1,1 @@
+export { LogoIllustrator } from "./LogoIllustrator";

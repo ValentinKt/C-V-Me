@@ -1,0 +1,1 @@
+export { LogoProtopie } from "./LogoProtopie";

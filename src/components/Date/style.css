@@ -1,0 +1,242 @@
+.date {
+  align-items: flex-start;
+  display: inline-flex;
+  gap: 40px;
+  padding: 0px 0px 0px 32px;
+  position: relative;
+}
+
+.date .content {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  position: relative;
+  width: 400px;
+}
+
+.date .name {
+  color: var(--israelbetolazaneutraldark);
+  font-family: var(--israel-betolaza-body-2-font-family);
+  font-size: var(--israel-betolaza-body-2-font-size);
+  font-style: var(--israel-betolaza-body-2-font-style);
+  font-weight: var(--israel-betolaza-body-2-font-weight);
+  letter-spacing: var(--israel-betolaza-body-2-letter-spacing);
+  line-height: var(--israel-betolaza-body-2-line-height);
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.date .progress-bar {
+  align-self: stretch;
+  height: 12px;
+  position: relative;
+  width: 100%;
+}
+
+.date .overlap-group-2 {
+  height: 12px;
+  position: relative;
+  width: 400px;
+}
+
+.date .back-line {
+  background-color: var(--israelbetolazaneutralmedium);
+  height: 4px;
+  left: 0;
+  position: absolute;
+  top: 4px;
+  width: 400px;
+}
+
+.date .progress-bar-2 {
+  left: 0;
+  position: absolute;
+  top: 0;
+}
+
+.date .group-4 {
+  flex: 1;
+  flex-grow: 1;
+  height: 12px;
+  position: relative;
+}
+
+.date .progress-line {
+  background-color: var(--israelbetolazamainprimary);
+  height: 4px;
+  left: 0;
+  position: absolute;
+  top: 4px;
+  width: 388px;
+}
+
+.date .dot {
+  background-color: var(--israelbetolazamainprimary);
+  border-radius: 6.06px/6px;
+  height: 12px;
+  left: 388px;
+  position: absolute;
+  top: 0;
+  width: 12px;
+}
+
+.date .progress-line-2 {
+  background-color: var(--israelbetolazamainprimary);
+  height: 4px;
+  left: 0;
+  position: absolute;
+  top: 4px;
+}
+
+.date .dot-2 {
+  background-color: var(--israelbetolazamainprimary);
+  border-radius: 6px;
+  height: 12px;
+  position: absolute;
+  top: 0;
+  width: 12px;
+}
+
+.date .logo-photoshop {
+  height: 64px !important;
+  position: relative !important;
+  width: 64px !important;
+}
+
+.date .one-hundred {
+  border-radius: 200px;
+}
+
+.date .percent-ten {
+  height: 12px;
+  width: 40px;
+}
+
+.date .percent-fifty {
+  height: 12px;
+  width: 200px;
+}
+
+.date .percent-eighty {
+  height: 12px;
+  width: 320px;
+}
+
+.date .percent-sixty {
+  height: 12px;
+  width: 240px;
+}
+
+.date .percent-forty {
+  height: 12px;
+  width: 160px;
+}
+
+.date .percent-ninety {
+  height: 12px;
+  width: 360px;
+}
+
+.date .percent-thirty {
+  height: 12px;
+  width: 120px;
+}
+
+.date .percent-twenty {
+  height: 12px;
+  width: 80px;
+}
+
+.date .percent-one-hundred {
+  align-items: center;
+  display: flex;
+  width: 400px;
+}
+
+.date .percent-seventy {
+  height: 12px;
+  width: 280px;
+}
+
+.date .progress-bar-2.percent-ten .progress-line-2 {
+  width: 28px;
+}
+
+.date .progress-bar-2.percent-fifty .progress-line-2 {
+  width: 188px;
+}
+
+.date .progress-bar-2.percent-eighty .progress-line-2 {
+  width: 308px;
+}
+
+.date .progress-bar-2.percent-sixty .progress-line-2 {
+  width: 228px;
+}
+
+.date .progress-bar-2.percent-forty .progress-line-2 {
+  width: 148px;
+}
+
+.date .progress-bar-2.percent-ninety .progress-line-2 {
+  width: 348px;
+}
+
+.date .progress-bar-2.percent-thirty .progress-line-2 {
+  width: 108px;
+}
+
+.date .progress-bar-2.percent-twenty .progress-line-2 {
+  width: 68px;
+}
+
+.date .progress-bar-2.percent-one-hundred .progress-line-2 {
+  width: 348px;
+}
+
+.date .progress-bar-2.percent-seventy .progress-line-2 {
+  width: 268px;
+}
+
+.date .progress-bar-2.percent-ten .dot-2 {
+  left: 28px;
+}
+
+.date .progress-bar-2.percent-fifty .dot-2 {
+  left: 188px;
+}
+
+.date .progress-bar-2.percent-eighty .dot-2 {
+  left: 308px;
+}
+
+.date .progress-bar-2.percent-sixty .dot-2 {
+  left: 228px;
+}
+
+.date .progress-bar-2.percent-forty .dot-2 {
+  left: 148px;
+}
+
+.date .progress-bar-2.percent-ninety .dot-2 {
+  left: 348px;
+}
+
+.date .progress-bar-2.percent-thirty .dot-2 {
+  left: 108px;
+}
+
+.date .progress-bar-2.percent-twenty .dot-2 {
+  left: 68px;
+}
+
+.date .progress-bar-2.percent-one-hundred .dot-2 {
+  left: 348px;
+}
+
+.date .progress-bar-2.percent-seventy .dot-2 {
+  left: 268px;
+}

@@ -1,0 +1,71 @@
+.component-title {
+  position: relative;
+}
+
+.component-title .text-wrapper-3 {
+  color: var(--israelbetolazaneutraldark);
+  font-family: "Roboto", Helvetica;
+  font-size: 48px;
+  font-weight: 500;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: -1px;
+  white-space: nowrap;
+}
+
+.component-title .rectangle-3 {
+  background-color: var(--israelbetolazamainprimary);
+  height: 4px;
+  left: 0;
+  position: absolute;
+  top: 72px;
+  width: 120px;
+}
+
+.component-title .group-2 {
+  height: 59px;
+  margin-right: -2px;
+  position: relative;
+  width: 212px;
+}
+
+.component-title .DATA-TITLE {
+  color: var(--israelbetolazaneutraldark);
+  font-family: "Roboto", Helvetica;
+  font-size: 40px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.component-title .rectangle-4 {
+  background-color: var(--israelbetolazamainprimary);
+  height: 4px;
+  left: 0;
+  position: absolute;
+  top: 55px;
+  width: 80px;
+}
+
+.component-title .icon-informaci-n {
+  height: 64px !important;
+  position: relative !important;
+  width: 64px !important;
+}
+
+.component-title.primary {
+  height: 77px;
+  width: 1343px;
+}
+
+.component-title.secondary {
+  align-items: flex-end;
+  display: inline-flex;
+  gap: 32px;
+}
