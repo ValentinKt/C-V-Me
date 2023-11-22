@@ -2,7 +2,7 @@
   position: relative;
 }
 
-.component-title .TITLE-EXAMPLE {
+.component-title .text-wrapper-3 {
   color: var(--israelbetolazaneutraldark);
   font-family: "Roboto", Helvetica;
   font-size: 48px;
@@ -15,7 +15,7 @@
   white-space: nowrap;
 }
 
-.component-title .rectangle {
+.component-title .rectangle-3 {
   background-color: var(--israelbetolazamainprimary);
   height: 4px;
   left: 0;
@@ -24,7 +24,7 @@
   width: 120px;
 }
 
-.component-title .group {
+.component-title .group-2 {
   height: 59px;
   margin-right: -2px;
   position: relative;
@@ -44,7 +44,7 @@
   white-space: nowrap;
 }
 
-.component-title .div {
+.component-title .rectangle-4 {
   background-color: var(--israelbetolazamainprimary);
   height: 4px;
   left: 0;
