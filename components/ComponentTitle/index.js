@@ -1,0 +1,1 @@
+export { ComponentTitle } from "./ComponentTitle";
