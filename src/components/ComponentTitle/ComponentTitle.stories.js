@@ -17,9 +17,8 @@ export const Default = {
     divClassName: {},
     rectangleClassName: {},
     className: {},
-    text: "TITLE EXAMPLE",
     divClassNameOverride: {},
-    text1: "DATA TITLE",
+    text: "DATA TITLE",
     rectangleClassNameOverride: {},
   },
 };
